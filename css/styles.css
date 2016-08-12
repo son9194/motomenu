@@ -1,0 +1,41 @@
+.row > div {
+  background-color: white;
+  padding: 0px;
+}
+
+div.block {
+  background-color: gray;
+  border: 2px solid black;
+  margin: 5px;
+  height: 200px;
+  overflow: auto;
+}
+
+div.menulabel {
+  width: 150px;
+  float:right;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+div.menudetails {
+  float: left;
+  padding: 5px;
+  text-align: justify;
+}
+.textstyle01 {
+  color: black;
+  background-color: pink;
+}
+
+.textstyle02 {
+  color: white;
+  background-color: red;
+}
+
+.textstyle03 {
+  color: black;
+  background-color: LightGoldenRodYellow;
+}
